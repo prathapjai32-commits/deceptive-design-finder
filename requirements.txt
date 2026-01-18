@@ -8,5 +8,6 @@ requests
 beautifulsoup4
 lxml
 matplotlib
+seaborn
 
 
